@@ -37,3 +37,31 @@ padding-top:  305px;
     color: white;
     font-size: 20px;
 }
+.about{
+    width=100px;
+    height: 600px;
+    background-color: dodgerblue;
+}
+.paging
+{
+    background-color: #f5f5f5;
+}
+.row-spec
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+   
+}
+.col_inner
+{
+    background-color: white;
+}
+.row-spec h4
+{
+    padding-top: 10px;
+}
+.row-spec h5
+{
+    color: gray;
+}
