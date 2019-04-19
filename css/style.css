@@ -1,0 +1,39 @@
+.home
+{
+    height: 100vh;
+    background-image: url(../images/c1.jpg) ;
+    
+    background-size: cover;
+    
+    
+}
+.layer 
+{
+    background-color:rgba(0,0,0,0.4);
+    height: 100%;
+    position: relative ;
+}
+h1 
+{
+    
+    color: white;
+    font-size: 80px;
+}
+
+.arro
+{
+    position: absolute;
+    bottom: 30px;
+    
+}
+
+
+.con
+{
+padding-top:  305px;
+}
+.HOME P
+{
+    color: white;
+    font-size: 20px;
+}
